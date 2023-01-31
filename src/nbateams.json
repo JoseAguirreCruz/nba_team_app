@@ -1,7 +1,7 @@
 {
   "teams": [
     {
-      "name": "Boston Celtics",
+      "teamName": "Boston Celtics",
       "conference": "Eastern",
       "division": "Atlantic",
       "established": 1946,
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "name": "Los Angeles Lakers",
+      "teamName": "Los Angeles Lakers",
       "conference": "Western",
       "division": "Pacific",
       "established": 1948,
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "Chicago Bulls",
+      "teamName": "Chicago Bulls",
       "conference": "Eastern",
       "division": "Central",
       "established": 1966,
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "name": "Cleveland Cavaliers",
+      "teamName": "Cleveland Cavaliers",
       "conference": "Eastern",
       "division": "Central",
       "established": 1970,
@@ -101,7 +101,7 @@
       ]
     },
     {
-      "name": "Dallas Mavericks",
+      "teamName": "Dallas Mavericks",
       "conference": "Western",
       "division": "Southwest",
       "established": 1980,
@@ -114,7 +114,7 @@
           "number": 77
         },
         {
-          "name": "Denver Nuggets",
+          "teamName": "Denver Nuggets",
           "conference": "Western",
           "division": "Northwest",
           "established": 1967,
@@ -139,7 +139,7 @@
           ]
         },
         {
-          "name": "Detroit Pistons",
+          "teamName": "Detroit Pistons",
           "conference": "Eastern",
           "division": "Central",
           "established": 1941,
@@ -164,7 +164,7 @@
           ]
         },
         {
-          "name": "Golden State Warriors",
+          "teamName": "Golden State Warriors",
           "conference": "Western",
           "division": "Pacific",
           "established": 1946,
@@ -189,7 +189,7 @@
           ]
         },
         {
-          "name": "Houston Rockets",
+          "teamName": "Houston Rockets",
           "conference": "Western",
           "division": "Southwest",
           "established": 1967,
@@ -214,7 +214,7 @@
           ]
         },
         {
-          "name": "Indiana Pacers",
+          "teamName": "Indiana Pacers",
           "conference": "Eastern",
           "division": "Central",
           "established": 1967,
@@ -239,7 +239,7 @@
           ]
         },
         {
-          "name": "Los Angeles Clippers",
+          "teamName": "Los Angeles Clippers",
           "conference": "Western",
           "division": "Pacific",
           "established": 1970,
@@ -264,7 +264,7 @@
           ]
         },
         {
-          "name": "Memphis Grizzlies",
+          "teamName": "Memphis Grizzlies",
           "conference": "Western",
           "division": "Southwest",
           "established": 1995,
@@ -299,7 +299,7 @@
           ]
         },
         {
-          "name": "New Orleans Pelicans",
+          "teamName": "New Orleans Pelicans",
           "conference": "Western",
           "division": "Southwest",
           "established": 2002,
@@ -324,7 +324,7 @@
           ]
         },
         {
-          "name": "New York Knicks",
+          "teamName": "New York Knicks",
           "conference": "Eastern",
           "division": "Atlantic",
           "established": 1946,
@@ -349,7 +349,7 @@
           ]
         },
         {
-          "name": "Oklahoma City Thunder",
+          "teamName": "Oklahoma City Thunder",
           "conference": "Western",
           "division": "Northwest",
           "established": 1967,
@@ -374,7 +374,7 @@
           ]
         },
         {
-          "name": "Orlando Magic",
+          "teamName": "Orlando Magic",
           "conference": "Eastern",
           "division": "Southeast",
           "established": 1989,
@@ -399,7 +399,7 @@
           ]
         },
         {
-          "name": "Philadelphia 76ers",
+          "teamName": "Philadelphia 76ers",
           "conference": "Eastern",
           "division": "Atlantic",
           "established": 1946,
@@ -426,7 +426,7 @@
       ]
     },
     {
-      "name": "Phoenix Suns",
+      "teamName": "Phoenix Suns",
       "conference": "Western",
       "division": "Pacific",
       "established": 1968,
@@ -451,7 +451,7 @@
       ]
     },
     {
-      "name": "Portland Trail Blazers",
+      "teamName": "Portland Trail Blazers",
       "conference": "Western",
       "division": "Northwest",
       "established": 1970,
@@ -476,7 +476,7 @@
       ]
     },
     {
-      "name": "Sacramento Kings",
+      "teamName": "Sacramento Kings",
       "conference": "Western",
       "division": "Pacific",
       "established": 1948,
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "name": "San Antonio Spurs",
+      "teamName": "San Antonio Spurs",
       "conference": "Western",
       "division": "Southwest",
       "established": 1967,
@@ -526,7 +526,7 @@
       ]
     },
     {
-      "name": "Toronto Raptors",
+      "teamName": "Toronto Raptors",
       "conference": "Eastern",
       "division": "Atlantic",
       "established": 1995,
@@ -544,7 +544,7 @@
           "number": 43
         },
         {
-          "name": "Utah Jazz",
+          "teamName": "Utah Jazz",
           "conference": "Western",
           "division": "Northwest",
           "established": 1974,
@@ -567,7 +567,7 @@
               "number": 10
             },
             {
-              "name": "Atlanta Hawks",
+              "teamName": "Atlanta Hawks",
               "conference": "Eastern",
               "division": "Southeast",
               "established": 1946,
@@ -592,7 +592,7 @@
               ]
             },
             {
-              "name": "Brooklyn Nets",
+              "teamName": "Brooklyn Nets",
               "conference": "Eastern",
               "division": "Atlantic",
               "established": 1967,
