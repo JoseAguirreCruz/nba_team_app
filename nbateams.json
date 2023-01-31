@@ -1,0 +1,624 @@
+{
+  "teams": [
+    {
+      "name": "Boston Celtics",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "established": 1946,
+      "arena": "TD Garden",
+      "location": "Boston, Massachusetts",
+      "players": [
+        {
+          "name": "Jayson Tatum",
+          "position": "Forward",
+          "number": 0
+        },
+        {
+          "name": "Kemba Walker",
+          "position": "Guard",
+          "number": 8
+        },
+        {
+          "name": "Marcus Smart",
+          "position": "Guard",
+          "number": 36
+        }
+      ]
+    },
+    {
+      "name": "Los Angeles Lakers",
+      "conference": "Western",
+      "division": "Pacific",
+      "established": 1948,
+      "arena": "Staples Center",
+      "location": "Los Angeles, California",
+      "players": [
+        {
+          "name": "LeBron James",
+          "position": "Forward",
+          "number": 23
+        },
+        {
+          "name": "Anthony Davis",
+          "position": "Center",
+          "number": 3
+        },
+        {
+          "name": "Kentavious Caldwell-Pope",
+          "position": "Guard",
+          "number": 1
+        }
+      ]
+    },
+    {
+      "name": "Chicago Bulls",
+      "conference": "Eastern",
+      "division": "Central",
+      "established": 1966,
+      "arena": "United Center",
+      "location": "Chicago, Illinois",
+      "players": [
+        {
+          "name": "Zach LaVine",
+          "position": "Guard",
+          "number": 8
+        },
+        {
+          "name": "Lauri Markkanen",
+          "position": "Forward",
+          "number": 24
+        },
+        {
+          "name": "Coby White",
+          "position": "Guard",
+          "number": 0
+        }
+      ]
+    },
+    {
+      "name": "Cleveland Cavaliers",
+      "conference": "Eastern",
+      "division": "Central",
+      "established": 1970,
+      "arena": "Rocket Mortgage FieldHouse",
+      "location": "Cleveland, Ohio",
+      "players": [
+        {
+          "name": "Collin Sexton",
+          "position": "Guard",
+          "number": 2
+        },
+        {
+          "name": "Darius Garland",
+          "position": "Guard",
+          "number": 10
+        },
+        {
+          "name": "Larry Nance Jr.",
+          "position": "Forward",
+          "number": 22
+        }
+      ]
+    },
+    {
+      "name": "Dallas Mavericks",
+      "conference": "Western",
+      "division": "Southwest",
+      "established": 1980,
+      "arena": "American Airlines Center",
+      "location": "Dallas, Texas",
+      "players": [
+        {
+          "name": "Luka Doncic",
+          "position": "Guard",
+          "number": 77
+        },
+        {
+          "name": "Denver Nuggets",
+          "conference": "Western",
+          "division": "Northwest",
+          "established": 1967,
+          "arena": "Pepsi Center",
+          "location": "Denver, Colorado",
+          "players": [
+            {
+              "name": "Nikola Jokic",
+              "position": "Center",
+              "number": 15
+            },
+            {
+              "name": "Jamal Murray",
+              "position": "Guard",
+              "number": 27
+            },
+            {
+              "name": "Michael Porter Jr.",
+              "position": "Forward",
+              "number": 1
+            }
+          ]
+        },
+        {
+          "name": "Detroit Pistons",
+          "conference": "Eastern",
+          "division": "Central",
+          "established": 1941,
+          "arena": "Little Caesars Arena",
+          "location": "Detroit, Michigan",
+          "players": [
+            {
+              "name": "Jerami Grant",
+              "position": "Forward",
+              "number": 9
+            },
+            {
+              "name": "Derrick Rose",
+              "position": "Guard",
+              "number": 25
+            },
+            {
+              "name": "Josh Jackson",
+              "position": "Forward",
+              "number": 20
+            }
+          ]
+        },
+        {
+          "name": "Golden State Warriors",
+          "conference": "Western",
+          "division": "Pacific",
+          "established": 1946,
+          "arena": "Chase Center",
+          "location": "San Francisco, California",
+          "players": [
+            {
+              "name": "Stephen Curry",
+              "position": "Guard",
+              "number": 30
+            },
+            {
+              "name": "Draymond Green",
+              "position": "Forward",
+              "number": 23
+            },
+            {
+              "name": "Andrew Wiggins",
+              "position": "Forward",
+              "number": 22
+            }
+          ]
+        },
+        {
+          "name": "Houston Rockets",
+          "conference": "Western",
+          "division": "Southwest",
+          "established": 1967,
+          "arena": "Toyota Center",
+          "location": "Houston, Texas",
+          "players": [
+            {
+              "name": "James Harden",
+              "position": "Guard",
+              "number": 13
+            },
+            {
+              "name": "John Wall",
+              "position": "Guard",
+              "number": 0
+            },
+            {
+              "name": "P.J. Tucker",
+              "position": "Forward",
+              "number": 17
+            }
+          ]
+        },
+        {
+          "name": "Indiana Pacers",
+          "conference": "Eastern",
+          "division": "Central",
+          "established": 1967,
+          "arena": "Bankers Life Fieldhouse",
+          "location": "Indianapolis, Indiana",
+          "players": [
+            {
+              "name": "Domantas Sabonis",
+              "position": "Center",
+              "number": 11
+            },
+            {
+              "name": "Malcolm Brogdon",
+              "position": "Guard",
+              "number": 7
+            },
+            {
+              "name": "Myles Turner",
+              "position": "Center",
+              "number": 33
+            }
+          ]
+        },
+        {
+          "name": "Los Angeles Clippers",
+          "conference": "Western",
+          "division": "Pacific",
+          "established": 1970,
+          "arena": "Staples Center",
+          "location": "Los Angeles, California",
+          "players": [
+            {
+              "name": "Kawhi Leonard",
+              "position": "Forward",
+              "number": 2
+            },
+            {
+              "name": "Paul George",
+              "position": "Forward",
+              "number": 13
+            },
+            {
+              "name": "Serge Ibaka",
+              "position": "Center",
+              "number": 9
+            }
+          ]
+        },
+        {
+          "name": "Memphis Grizzlies",
+          "conference": "Western",
+          "division": "Southwest",
+          "established": 1995,
+          "arena": "FedExForum",
+          "location": "Memphis, Tennessee",
+          "players": [
+            {
+              "name": "Ja Morant",
+              "position": "Guard",
+              "number": 12
+            },
+            {
+              "name": "Jonas Valanciunas",
+              "position": "Center",
+              "number": 17
+            },
+            {
+              "name": "Dillon Brooks",
+              "position": "Guard",
+              "number": 32
+            },
+            {
+              "name": "D'Angelo Russell",
+              "position": "Guard",
+              "number": 0
+            },
+            {
+              "name": "Anthony Edwards",
+              "position": "Guard",
+              "number": 1
+            }
+          ]
+        },
+        {
+          "name": "New Orleans Pelicans",
+          "conference": "Western",
+          "division": "Southwest",
+          "established": 2002,
+          "arena": "Smoothie King Center",
+          "location": "New Orleans, Louisiana",
+          "players": [
+            {
+              "name": "Zion Williamson",
+              "position": "Forward",
+              "number": 1
+            },
+            {
+              "name": "Brandon Ingram",
+              "position": "Forward",
+              "number": 14
+            },
+            {
+              "name": "Lonzo Ball",
+              "position": "Guard",
+              "number": 2
+            }
+          ]
+        },
+        {
+          "name": "New York Knicks",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "established": 1946,
+          "arena": "Madison Square Garden",
+          "location": "New York City, New York",
+          "players": [
+            {
+              "name": "Julius Randle",
+              "position": "Forward",
+              "number": 30
+            },
+            {
+              "name": "RJ Barrett",
+              "position": "Guard",
+              "number": 9
+            },
+            {
+              "name": "Mitchell Robinson",
+              "position": "Center",
+              "number": 23
+            }
+          ]
+        },
+        {
+          "name": "Oklahoma City Thunder",
+          "conference": "Western",
+          "division": "Northwest",
+          "established": 1967,
+          "arena": "Chesapeake Energy Arena",
+          "location": "Oklahoma City, Oklahoma",
+          "players": [
+            {
+              "name": "Shai Gilgeous-Alexander",
+              "position": "Guard",
+              "number": 2
+            },
+            {
+              "name": "Darius Bazley",
+              "position": "Forward",
+              "number": 7
+            },
+            {
+              "name": "Al Horford",
+              "position": "Center",
+              "number": 42
+            }
+          ]
+        },
+        {
+          "name": "Orlando Magic",
+          "conference": "Eastern",
+          "division": "Southeast",
+          "established": 1989,
+          "arena": "Amway Center",
+          "location": "Orlando, Florida",
+          "players": [
+            {
+              "name": "Nikola Vucevic",
+              "position": "Center",
+              "number": 9
+            },
+            {
+              "name": "Evan Fournier",
+              "position": "Guard",
+              "number": 10
+            },
+            {
+              "name": "Markelle Fultz",
+              "position": "Guard",
+              "number": 20
+            }
+          ]
+        },
+        {
+          "name": "Philadelphia 76ers",
+          "conference": "Eastern",
+          "division": "Atlantic",
+          "established": 1946,
+          "arena": "Wells Fargo Center",
+          "location": "Philadelphia, Pennsylvania",
+          "players": [
+            {
+              "name": "Joel Embiid",
+              "position": "Center",
+              "number": 21
+            },
+            {
+              "name": "Ben Simmons",
+              "position": "Guard",
+              "number": 25
+            },
+            {
+              "name": "Tobias Harris",
+              "position": "Forward",
+              "number": 12
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Phoenix Suns",
+      "conference": "Western",
+      "division": "Pacific",
+      "established": 1968,
+      "arena": "Talking Stick Resort Arena",
+      "location": "Phoenix, Arizona",
+      "players": [
+        {
+          "name": "Chris Paul",
+          "position": "Guard",
+          "number": 3
+        },
+        {
+          "name": "Deandre Ayton",
+          "position": "Center",
+          "number": 22
+        },
+        {
+          "name": "Mikal Bridges",
+          "position": "Forward",
+          "number": 25
+        }
+      ]
+    },
+    {
+      "name": "Portland Trail Blazers",
+      "conference": "Western",
+      "division": "Northwest",
+      "established": 1970,
+      "arena": "Moda Center",
+      "location": "Portland, Oregon",
+      "players": [
+        {
+          "name": "Damian Lillard",
+          "position": "Guard",
+          "number": 0
+        },
+        {
+          "name": "CJ McCollum",
+          "position": "Guard",
+          "number": 3
+        },
+        {
+          "name": "Jusuf Nurkic",
+          "position": "Center",
+          "number": 27
+        }
+      ]
+    },
+    {
+      "name": "Sacramento Kings",
+      "conference": "Western",
+      "division": "Pacific",
+      "established": 1948,
+      "arena": "Golden 1 Center",
+      "location": "Sacramento, California",
+      "players": [
+        {
+          "name": "De'Aaron  Fox",
+          "position": "Guard",
+          "number": 5
+        },
+        {
+          "name": "Marvin Bagley III",
+          "position": "Forward",
+          "number": 35
+        },
+        {
+          "name": "Harrison Barnes",
+          "position": "Forward",
+          "number": 40
+        }
+      ]
+    },
+    {
+      "name": "San Antonio Spurs",
+      "conference": "Western",
+      "division": "Southwest",
+      "established": 1967,
+      "arena": "AT&T Center",
+      "location": "San Antonio, Texas",
+      "players": [
+        {
+          "name": "DeMar DeRozan",
+          "position": "Guard",
+          "number": 10
+        },
+        {
+          "name": "LaMarcus Aldridge",
+          "position": "Forward",
+          "number": 12
+        },
+        {
+          "name": "Dejounte Murray",
+          "position": "Guard",
+          "number": 5
+        }
+      ]
+    },
+    {
+      "name": "Toronto Raptors",
+      "conference": "Eastern",
+      "division": "Atlantic",
+      "established": 1995,
+      "arena": "Scotiabank Arena",
+      "location": "Toronto, Ontario",
+      "players": [
+        {
+          "name": "Kyle Lowry",
+          "position": "Guard",
+          "number": 7
+        },
+        {
+          "name": "Pascal Siakam",
+          "position": "Forward",
+          "number": 43
+        },
+        {
+          "name": "Utah Jazz",
+          "conference": "Western",
+          "division": "Northwest",
+          "established": 1974,
+          "arena": "Vivint Smart Home Arena",
+          "location": "Salt Lake City, Utah",
+          "players": [
+            {
+              "name": "Donovan Mitchell",
+              "position": "Guard",
+              "number": 45
+            },
+            {
+              "name": "Rudy Gobert",
+              "position": "Center",
+              "number": 27
+            },
+            {
+              "name": "Mike Conley",
+              "position": "Guard",
+              "number": 10
+            },
+            {
+              "name": "Atlanta Hawks",
+              "conference": "Eastern",
+              "division": "Southeast",
+              "established": 1946,
+              "arena": "State Farm Arena",
+              "location": "Atlanta, Georgia",
+              "players": [
+                {
+                  "name": "Trae Young",
+                  "position": "Point Guard",
+                  "number": 11
+                },
+                {
+                  "name": "John Collins",
+                  "position": "Power Forward",
+                  "number": 20
+                },
+                {
+                  "name": "De'Andre Hunter",
+                  "position": "Small Forward",
+                  "number": 12
+                }
+              ]
+            },
+            {
+              "name": "Brooklyn Nets",
+              "conference": "Eastern",
+              "division": "Atlantic",
+              "established": 1967,
+              "arena": "Barclays Center",
+              "location": "Brooklyn, New York",
+              "players": [
+                {
+                  "name": "Kyrie Irving",
+                  "position": "Point Guard",
+                  "number": 11
+                },
+                {
+                  "name": "Kevin Durant",
+                  "position": "Small Forward",
+                  "number": 7
+                },
+                {
+                  "name": "James Harden",
+                  "position": "Shooting Guard",
+                  "number": 13
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
