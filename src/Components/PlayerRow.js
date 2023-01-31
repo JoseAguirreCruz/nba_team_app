@@ -1,9 +1,9 @@
 import React from 'react'
 
-const PlayerRow = ({ playersName, position, number }) => {
+const PlayerRow = ({ name, position, number }) => {
   return (
     <tr>
-      <td>{player.name}</td>
+      <td>{name}</td>
       <td>{position}</td>
       <td>{number}</td>
     </tr>
