@@ -12,14 +12,15 @@ const PlayerTable = ({ players }) => {
         </tr>
       </thead>
       <tbody>
-        {players.map((player, index) => (
-          <PlayerRow
-            key={index}
-            name={player.name}
-            position={player.position}
-            number={player.number}
-          />
-        ))}
+        {players &&
+          players.map((player, index) => (
+            <PlayerRow
+              key={index}
+              name={player.name}
+              position={player.position}
+              number={player.number}
+            />
+          ))}
       </tbody>
     </table>
   )
