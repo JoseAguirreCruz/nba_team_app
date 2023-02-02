@@ -1,5 +1,3 @@
-import React from 'react'
-
 const PlayerRow = ({ name, position, number }) => {
   return (
     <tr>

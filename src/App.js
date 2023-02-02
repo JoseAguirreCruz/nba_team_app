@@ -1,21 +1,26 @@
 import React from 'react'
-import TeamPage from './Components/TeamPage'
-import nbaTeams from './nbateams.json'
+import Search from './Components/Search'
+import nbateams from './nbateams.json'
+import PlayerRow from './Components/PlayerRow'
+import PlayerTable from './Components/PlayerTable'
+import Header from './Components/Header'
 
-const teams = Object.values(nbaTeams)
+const teams = Object.values(nbateams)
 
 const App = () => {
   return (
     <div>
-      {teams.map((team, index) => (
-        <TeamPage
+      <Header />
+      <Search />
+      {teams.map((teams, index) => (
+        <PlayerTable
           key={index}
-          teamName={team.teamName}
-          arena={team.arena}
-          location={team.location}
-          conference={team.conference}
-          division={team.division}
-          players={team.players}
+          teamName={teams.teamName}
+          arena={teams.arena}
+          location={teams.location}
+          conference={teams.conference}
+          division={teams.division}
+          players={teams.players}
         />
       ))}
     </div>
