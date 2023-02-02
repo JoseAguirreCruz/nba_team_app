@@ -1,7 +1,7 @@
 {
   "teams": [
     {
-      "image": "data:image/png;base64,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",
+      "image": "https://content.sportslogos.net/logos/6/213/thumbs/slhg02hbef3j1ov4lsnwyol5o.gif",
       "teamName": "Boston Celtics",
       "conference": "Eastern",
       "division": "Atlantic",
@@ -27,6 +27,7 @@
       ]
     },
     {
+      "image": "https://content.sportslogos.net/logos/6/237/thumbs/uig7aiht8jnpl1szbi57zzlsh.gif",
       "teamName": "Los Angeles Lakers",
       "conference": "Western",
       "division": "Pacific",
@@ -52,6 +53,7 @@
       ]
     },
     {
+      "image": "https://content.sportslogos.net/logos/6/221/thumbs/hj3gmh82w9hffmeh3fjm5h874.gif",
       "teamName": "Chicago Bulls",
       "conference": "Eastern",
       "division": "Central",
@@ -77,6 +79,7 @@
       ]
     },
     {
+      "image": "https://content.sportslogos.net/logos/6/222/thumbs/22253692023.gif",
       "teamName": "Cleveland Cavaliers",
       "conference": "Eastern",
       "division": "Central",
@@ -102,6 +105,7 @@
       ]
     },
     {
+      "image": "https://content.sportslogos.net/logos/6/228/thumbs/22834632018.gif",
       "teamName": "Dallas Mavericks",
       "conference": "Western",
       "division": "Southwest",
@@ -115,6 +119,7 @@
           "number": 77
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/229/thumbs/22989262019.gif",
           "teamName": "Denver Nuggets",
           "conference": "Western",
           "division": "Northwest",
@@ -140,6 +145,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/223/thumbs/22321642018.gif",
           "teamName": "Detroit Pistons",
           "conference": "Eastern",
           "division": "Central",
@@ -165,6 +171,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/235/thumbs/23531522020.gif",
           "teamName": "Golden State Warriors",
           "conference": "Western",
           "division": "Pacific",
@@ -190,6 +197,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/230/thumbs/23068302020.gif",
           "teamName": "Houston Rockets",
           "conference": "Western",
           "division": "Southwest",
@@ -215,6 +223,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/224/thumbs/22448122018.gif",
           "teamName": "Indiana Pacers",
           "conference": "Eastern",
           "division": "Central",
@@ -240,6 +249,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/236/thumbs/23637762019.gif",
           "teamName": "Los Angeles Clippers",
           "conference": "Western",
           "division": "Pacific",
@@ -265,6 +275,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/231/thumbs/23143732019.gif",
           "teamName": "Memphis Grizzlies",
           "conference": "Western",
           "division": "Southwest",
@@ -300,6 +311,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/4962/thumbs/496226812014.gif",
           "teamName": "New Orleans Pelicans",
           "conference": "Western",
           "division": "Southwest",
@@ -325,6 +337,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/216/thumbs/2nn48xofg0hms8k326cqdmuis.gif",
           "teamName": "New York Knicks",
           "conference": "Eastern",
           "division": "Atlantic",
@@ -350,6 +363,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/2687/thumbs/khmovcnezy06c3nm05ccn0oj2.gif",
           "teamName": "Oklahoma City Thunder",
           "conference": "Western",
           "division": "Northwest",
@@ -375,6 +389,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/217/thumbs/wd9ic7qafgfb0yxs7tem7n5g4.gif",
           "teamName": "Orlando Magic",
           "conference": "Eastern",
           "division": "Southeast",
@@ -400,6 +415,7 @@
           ]
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/218/thumbs/21870342016.gif",
           "teamName": "Philadelphia 76ers",
           "conference": "Eastern",
           "division": "Atlantic",
@@ -427,6 +443,7 @@
       ]
     },
     {
+      "image": "https://content.sportslogos.net/logos/6/238/thumbs/23843702014.gif",
       "teamName": "Phoenix Suns",
       "conference": "Western",
       "division": "Pacific",
@@ -452,6 +469,7 @@
       ]
     },
     {
+      "image": "https://content.sportslogos.net/logos/6/239/thumbs/23997252018.gif",
       "teamName": "Portland Trail Blazers",
       "conference": "Western",
       "division": "Northwest",
@@ -477,6 +495,7 @@
       ]
     },
     {
+      "image": "https://content.sportslogos.net/logos/6/240/thumbs/24040432017.gif",
       "teamName": "Sacramento Kings",
       "conference": "Western",
       "division": "Pacific",
@@ -502,6 +521,7 @@
       ]
     },
     {
+      "image": "https://content.sportslogos.net/logos/6/233/thumbs/23325472018.gif",
       "teamName": "San Antonio Spurs",
       "conference": "Western",
       "division": "Southwest",
@@ -527,6 +547,7 @@
       ]
     },
     {
+      "image": "https://content.sportslogos.net/logos/6/227/thumbs/22770242021.gif",
       "teamName": "Toronto Raptors",
       "conference": "Eastern",
       "division": "Atlantic",
@@ -545,6 +566,7 @@
           "number": 43
         },
         {
+          "image": "https://content.sportslogos.net/logos/6/234/thumbs/23485132023.gif",
           "teamName": "Utah Jazz",
           "conference": "Western",
           "division": "Northwest",
@@ -568,6 +590,7 @@
               "number": 10
             },
             {
+              "image": "https://content.sportslogos.net/logos/6/220/thumbs/22081902021.gif",
               "teamName": "Atlanta Hawks",
               "conference": "Eastern",
               "division": "Southeast",
@@ -593,6 +616,7 @@
               ]
             },
             {
+              "image": "https://content.sportslogos.net/logos/6/3786/thumbs/hsuff5m3dgiv20kovde422r1f.gif",
               "teamName": "Brooklyn Nets",
               "conference": "Eastern",
               "division": "Atlantic",
