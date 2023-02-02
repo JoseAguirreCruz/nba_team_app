@@ -3,6 +3,7 @@ import Search from './Components/Search'
 import nbateams from './nbateams.json'
 import PlayerTable from './Components/PlayerTable'
 import Header from './Components/Header'
+import './App.css'
 
 console.log(nbateams)
 const App = () => {

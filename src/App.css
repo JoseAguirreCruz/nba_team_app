@@ -2,3 +2,15 @@ body {
   margin: 0;
   width: 100vw;
 }
+
+.header {
+  background-color: #F88158;
+  padding: 20px;
+  text-align: center;
+}
+
+.header h1 {
+  color: white;
+  font-size: 36px;
+  font-weight: bold;
+}

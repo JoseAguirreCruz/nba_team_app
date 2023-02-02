@@ -1,6 +1,6 @@
 const PlayerRow = ({ name, position, number }) => {
   return (
-    <tr>
+    <tr className="player-row">
       <td>{name}</td>
       <td>{position}</td>
       <td>{number}</td>
