@@ -7,11 +7,13 @@ const PlayerTable = ({
   location,
   conference,
   division,
-  players
+  players,
+  image
 }) => {
   return (
     <div>
       <h2>{teamName}</h2>
+      <img src={image} />
       <p>Arena: {arena}</p>
       <p>Location: {location}</p>
       <p>Conference: {conference}</p>
