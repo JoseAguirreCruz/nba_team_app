@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Search = () => {
+const Search = ({ handleSearch }) => {
   return (
-    <form>
-      <input type="text" placeholder="Search for a team" />
+    <form className="search-form" onSubmit={handleSearch}>
+      <input type="text" placeholder="Search for a team" name="search" />
       <button type="submit">Search</button>
     </form>
   )

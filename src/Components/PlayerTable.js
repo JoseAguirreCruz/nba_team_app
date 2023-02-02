@@ -11,7 +11,7 @@ const PlayerTable = ({
   image
 }) => {
   return (
-    <div>
+    <div className="player-table">
       <h2>{teamName}</h2>
       <img src={image} />
       <p>Arena: {arena}</p>

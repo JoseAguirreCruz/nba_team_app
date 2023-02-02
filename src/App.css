@@ -14,3 +14,96 @@ body {
   font-size: 36px;
   font-weight: bold;
 }
+
+.player-row td {
+  padding: 10px;
+  text-align: center;
+}
+
+.player-row:nth-child(odd) {
+  background-color: lightgray;
+}
+
+.player-table {
+  padding: 20px;
+  text-align: center;
+}
+
+.player-table h2 {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.player-table img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  margin-bottom: 20px;
+}
+
+.player-table table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.player-table table th,
+.player-table table td {
+  padding: 10px;
+  text-align: center;
+}
+
+.player-table table thead tr {
+  background-color: lightblue;
+}
+
+.search-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.search-form input {
+  width: 60%;
+  padding: 10px;
+  font-size: 20px;
+  border: none;
+  border-bottom: 2px solid lightgray;
+  margin-right: 10px;
+}
+
+.search-form button {
+  width: 20%;
+  padding: 10px;
+  font-size: 20px;
+  background-color: lightblue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+nav {
+  background-color: #F88158;
+  display: flex;
+  justify-content: center; 
+  padding: 20px;
+  }
+  
+  ul {
+  list-style: none;
+  display: flex;
+  justify-content: center; 
+  }
+  
+  li {
+  margin-right: 20px;
+  }
+  
+  a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  }
+
+  
